@@ -641,7 +641,6 @@ function canvasApp() {
 
 
   	function search() {
-  		console.log("fucking search");
   		
   		var message = {"type": "COLLECTION"};
   		
