@@ -32,4 +32,9 @@ For a step-by-step demonstration please visit this repository:
 
 https://github.com/dubersfeld/kruskal-step
 
+For a video demo follow this link:
+
+https://youtu.be/JyIiDHzmhME
+
+
 Dominique Ubersfeld, Cachan, France
